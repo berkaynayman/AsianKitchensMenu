@@ -73,7 +73,7 @@
   }
   .card{
       padding: 0;
-      margin: 10px;
+      margin: 5px auto;
       box-shadow: 1px 1px 10px 1px rgb(0 0 0 / 10%);
 
   }
