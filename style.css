@@ -81,4 +81,5 @@
   .card-img-w-h{
     width: 100%;
     height: 265px;
+    object-fit:cover;
   }
